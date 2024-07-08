@@ -1,2 +1,2 @@
-# Perry
-Sij
+jugador# Perry
+lugar#desierto
